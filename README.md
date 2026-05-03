@@ -10,9 +10,24 @@ Status: In Development — contributions, feedback, and collaboration are welcom
 
 What is NodeWhisper?
 
-NodeWhisper is a modular, open-source blockchain forensic intelligence platform. It’s designed to trace tokens and NFTs, cluster wallets, monitor suspicious activity, and generate forensic reports — all with transparency, flexibility, and real-time capabilities.
+NodeWhisper is a modular, open-source blockchain forensic intelligence platform. It's designed to trace tokens and NFTs, cluster wallets, monitor suspicious activity, and generate forensic reports.
 
-This project is in early development, but we’re building in public and actively seeking collaborators, researchers, and builders to shape it.
+This project is in early development, but we're building in public and actively seeking collaborators, researchers, and builders to shape it.
+
+
+---
+
+📋 Documentation
+
+We maintain comprehensive documentation in the `/Docs` folder, including:
+
+- **[Prototype Design](./Docs/PROTOTYPE_DESIGN.md)** - View the Figma prototype design with UI/UX specifications and user flows
+- **[Architecture Diagram](./Docs/architecture-diagram.png)** - Technical architecture overview
+- **[Deployment Guide](./Docs/deployment-guide.md)** - Deployment and setup instructions
+- **[Contribution Guidelines](./Docs/contribution-guidelines.md)** - How to contribute to the project
+- **[Use Cases](./Docs/use-cases.md)** - Real-world use cases and scenarios
+
+👉 **Check out the [Prototype Design](./Docs/PROTOTYPE_DESIGN.md) to see the current UI/UX vision for NodeWhisper!**
 
 
 ---
@@ -56,6 +71,8 @@ Getting Started
 > Setup instructions and deployment steps will be added soon.
 For now, feel free to browse the repo, open issues, or comment on ideas!
 
+Check out the [Docs folder](./Docs/) for design specifications and deployment guides.
+
 
 
 
@@ -63,7 +80,7 @@ For now, feel free to browse the repo, open issues, or comment on ideas!
 
 How You Can Contribute
 
-We’re looking for collaborators in:
+We're looking for collaborators in:
 
 Frontend & backend development
 
